@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  background: linear-gradient(
+  135deg,
+  #e6784a 0%,
+  #d96a3f 40%,
+  #c85c35 100%
+);
+  color: #111;
+  font-family: "League Spartan", Arial, Helvetica, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+}
